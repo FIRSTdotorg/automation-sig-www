@@ -7,10 +7,10 @@ title: Automation SIG
 
 ## Goals & Deliverables
 
-Our aims therefore are to:
+Our aims are to:
 
 - Provide a forum where members active in the field of Incidence Response (IR) automation can exchange best practices.
-- Compile this exchange of kowledge - in the SIG, write a common best practices document for automation in the the context of incidence response (IR)
+- Document our kowledge - in the SIG, write a common best practices document for automation in the the context of incidence response (IR)
 - Compile a list of tools for automation in IR including their focus areas
 - Host at least three meetings per year, one being at the FIRST annual conference and another two (usually virtual) meetings around February and September;
 - Disseminate best practices in term of CSIRT organisation to support automation needs;
