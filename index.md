@@ -30,3 +30,4 @@ It is not a requirement to be a FIRST member to participate in the SIG though we
 
 <p class="ui-buttons"><a href="https://portal.first.org/g/Automation%20SIG" class="button color-button animated">Request to Join</a></p>
 
+<!-- testing stage -->
