@@ -20,9 +20,13 @@ Our aims are to:
 
 ## Chairs
 
-- David DURVAUX, EC DIGIT CSIRC
-- Aaron KAPLAN, EC DIGIT CSIRC
-- Benoît ROUSSILLE, EC DIGIT CSIRC
+- Aaron Kaplan (Liaison)
+- Andreas Mühlemann (SWITCH-CERT)
+- Benoît Roussille (EC Cybersecurity Operations Centre)
+- David DURVAUX (EC Cybersecurity Operations Centre)
+- Razvan Gavrila (ENISA)
+- Vasileios Mavroeidis (UIO.no)
+- Vilius Benetis (NRD CIRT)
 
 ## Membership
 
