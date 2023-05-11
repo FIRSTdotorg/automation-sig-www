@@ -12,7 +12,7 @@ The [bcp-guide](bcp-guide) folder contains our Best Common Practices document on
 If you are an external contributor (PRs welcome!), please for the repo and make a PR against the `develop` branch.
 If you are an active SIG member, it's ok to currently commit directly against `develop`, though PRs are preferred since they allow for a proper review.
 
-The `main` branch gets synced against the (sub-)web space (and is thus a protected branch).
+The `master` branch gets synced against the (sub-)web space (and is thus a protected branch).
 The `stage` branch gets synced against the staging area.
 
 Questions should be addressed to the [SIG-chairs](https://www.first.org/global/sigs/automation).
