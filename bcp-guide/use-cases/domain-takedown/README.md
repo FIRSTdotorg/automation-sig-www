@@ -39,7 +39,7 @@
 1. Add malicious URL to internal blacklists
 
 ### Diagram
-![Domain Takedown Diagram](./DomainTakedowndrawio.drawio.png)
+![Domain Takedown Diagram](./diagram.png)
 
 ### Results
   * take down request are sent, the domain will be hopefully be made unavailable soon
