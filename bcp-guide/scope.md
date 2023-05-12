@@ -8,24 +8,19 @@ In other words, our document will not try to address automating the response to 
 
 Obviously, the tasks considered must be automate-able in the first place.
 
-
-
 Another metric to limit our considered use-cases would be the estimated risk to the business. This might differ widely for some organisations and use-cases. However, things like attacks to central resources such as an Active Directory (AD) are universal enough for us to consider it a worth-while use case (to give a random example).
 
-
-
-The third way of limiting our scope is to limit ourselves to specific phases of the ISO (XXX check? Reference ? ) lifecycle:
+The third way of limiting our scope is to limit ourselves to specific phases of the incident response lifecycle (see [ISO/IEC 27035-3:2020](https://www.iso.org/standard/74033.html)):
 
 For the typical phases of
 
-* PREPARE & plan →  not in scope
+* prepare & plan →  not in scope
 * detect & report → in scope
 * assess and decide (triage) → in scope
 * respond → in scope
 * lessons learnt → not in scope
 
 Therefore, we can say, we will focus on the areas which burn the most time for team members in an IT security team: risks to the biz and hours consumed.
-
 
 ![Is it worth the time?](https://xkcd.com/1205/)
 

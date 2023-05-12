@@ -20,17 +20,17 @@ Our aims are to:
 
 ## Chairs
 
-- Aaron Kaplan (Liaison)
-- Andreas Mühlemann (SWITCH-CERT)
-- Benoît Roussille (EC Cybersecurity Operations Centre)
+- Aaron KAPLAN (Liaison)
+- Andreas MÜHLEMANN (SWITCH-CERT)
+- Benoît ROUSSILLE (EC Cybersecurity Operations Centre)
 - David DURVAUX (EC Cybersecurity Operations Centre)
-- Razvan Gavrila (ENISA)
-- Vasileios Mavroeidis (UIO.no)
-- Vilius Benetis (NRD CIRT)
+- Razvan GAVRILA (ENISA)
+- Vasileios MAVROEIDIS (UIO.no)
+- Vilius BENETIS (NRD CIRT)
 
 ## Membership
 
-It is not a requirement to be a FIRST member to participate in the SIG though we do encourage it. Join requests can be submitted using the link below, they'll be moderated by the SIG Chairs.
+Being a FIRST member is not a requirement to participate in this SIG, though we encourage it. Join requests can be submitted using the link below, they'll be moderated by the SIG Chairs.
 
 <p class="ui-buttons"><a href="https://portal.first.org/g/Automation%20SIG" class="button color-button animated">Request to Join</a></p>
 
