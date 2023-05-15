@@ -4,3 +4,4 @@
 
 * [AWS Snapshot Analysis](./aws-snapshot-analysis)
 * [Domain Takedown](./domain-takedown)
+* [Generic Potential Phishing](./generic-potential-phishing)
