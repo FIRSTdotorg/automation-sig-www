@@ -73,7 +73,7 @@ tasked with preparing the SOAR business case.
     appliances, security appliances, applications, and so on), and it is
     the logical next step after a well-designed SIEM. This implies that
     the security function will be able to triage the mundane more
-    quickly and focus on critical cases. 
+    quickly and focus on critical cases.
 
 Prerequisites
 =============
@@ -88,7 +88,7 @@ the IT help desk, or increasing the number of security alerts reported
 to management can all result in unintended consequences. The
 organisation can quickly go into shock, jeopardising your project.
 
-Before you begin, ensure that you have the following covered: 
+Before you begin, ensure that you have the following covered:
 
 -   You should not embark on this journey if your current asset
     management practises are underdeveloped. If you can\'t answer
@@ -127,7 +127,7 @@ Before you begin, ensure that you have the following covered: 
     a playbook may actively change the state of a system.
 
 -   While not required, a well-designed SIEM system can serve as a good
-    building block/enabler in the development of a good SOAR system. 
+    building block/enabler in the development of a good SOAR system.
 
 Good practices
 ==============
@@ -170,7 +170,7 @@ want to consider:
     have a wide-ranging impact on the organisation\'s business (e.g.,
     shutting down servers, changing firewall rules), and lower-risk
     ones, which include blocking a user account after multiple failed
-    logins, blacklisting email used in phishing, and so on. 
+    logins, blacklisting email used in phishing, and so on.
 
 -   Regularly review the playbooks and make sure that the analysts'
     lessons learned are captured in any new iteration. You may wish to
@@ -217,7 +217,7 @@ attempts to highlight some of them briefly:
     report following an investigation into a serious security incident.
     In essence, no SOAR system (at least with the current available
     technology) can replace a skilled and experienced information
-    security analyst. 
+    security analyst.
 
 A word of caution about becoming technology/vendor dependent with your
 SOAR system: while embracing a specific product can result in clear
@@ -241,6 +241,6 @@ reactive strategies (isolating potentially dangerous code). Putting SOAR
 in the middle of all of this may lead to additional complexity, so the
 advice is to keep the playbooks simple and \"human readable.\"
 
- 
+
 
 \[1\] <https://www.first.org/global/sigs/automation/>
