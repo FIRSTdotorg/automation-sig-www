@@ -5,7 +5,7 @@ list the most commonly used standards which need to be understood by
 most IR automation tools. Having common standards and making sure that
 the tool you are evaluating conforms to it, allows for easier
 interoperability. This is why we decided to list the standards here as
-well. 
+well.
 
 *XXX please list all similar documents which pre-date our document XXX*
 
@@ -13,34 +13,34 @@ Modelling languages for Playbooks
 =================================
 
 The following section lists known standards for playbook modelling
-languages. Both standardised ones as well as de-facto standards.
+languages. Both standardised ones and de-facto standards.
 
 CACAO
 -----
 
 **Reference**:
-<https://docs.oasis-open.org/cacao/security-playbooks/v1.0/security-playbooks-v1.0.html> 
+<https://docs.oasis-open.org/cacao/security-playbooks/v1.0/security-playbooks-v1.0.html>
 
 **Status**: Actively maintained and standardized under the auspices of
 [OASIS](https://docs.oasis-open.org/).
 
 **Used** **by**:
 
--   Shuffler: <https://shuffler.io/docs/architecture#frameworks> 
+-   Shuffler: <https://shuffler.io/docs/architecture#frameworks>
 
 **Description:**
 
 CACAO takes a lot of ideas from BPMN and builds on top of it.
 
 *\<XXX insert description. What is it? How to use it? Which tools use
-it? Who will be using it?  XXX \>*
+it? Who will be using it? XXX \>*
 
-COPS (Demisto / XSOAR )
+COPS (Demisto / XSOAR)
 -----------------------
 
 **Reference**: <https://github.com/demisto/COPS>
 
-**Status**: Seems to be abandoned on github? 
+**Status**: Seems to be abandoned on GitHub?
 
 **Used by: ?** *XXX not sure, does someone know if it is even used
 internally in XSOAR? XXX*
@@ -50,7 +50,7 @@ internally in XSOAR? XXX*
 Palo Alto was involved in CACAO, but what happened then?
 
 *\<XXX insert description. What is it? How to use it? Which tools use
-it? Who will be using it?  XXX \>*
+it? Who will be using it? XXX \>*
 
 BPMN
 ----
@@ -58,9 +58,9 @@ BPMN
 **Reference**:
 <https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation>
 
-**Status**: 
+**Status**:
 
-**Used by: **
+**Used by:**
 
 -   **Commercial:** [Red Hat Process
     Automation](https://www.redhat.com/en/products/process-automation),
@@ -70,26 +70,26 @@ BPMN
 **Description:**
 
 *\<XXX insert description. What is it? How to use it? Which tools use
-it? Who will be using it?  XXX \>*
+it? Who will be using it? XXX \>*
 
 Are there SOARs which use BPMN? BPMN is useful as a reference maybe.
 Open Source BPMN tools (apache projects) : <https://github.com/camunda>
 
 List of BPMN engines:
-<https://en.wikipedia.org/wiki/List_of_BPMN_2.0_engines> 
+<https://en.wikipedia.org/wiki/List_of_BPMN_2.0_engines>
 
-Jason Comment: Many open source orchestrators lack here 
+Jason Comment: Many open source orchestrators lack here
 
 Kestrel
 -------
 
-**Reference**:  <https://kestrel.readthedocs.io/en/latest/> 
+**Reference**: <https://kestrel.readthedocs.io/en/latest/>
 
-**Status**: 
+**Status**:
 
-**Used by: **
+**Used by:**
 
-**Description**:  more for threat hunting, less for automation?. Might
+**Description**: more for threat hunting, less for automation?. Might
 be a response in automation.
 
 Standards For Incident Fields & Metrics
@@ -107,11 +107,23 @@ Intelligence Center
 
 **Description:** a set of metrics designed to provide a common language
 for describing security incidents in a structured and repeatable
-manner. 
+manner.
 
 **Note:** Still picking through this to see how relevant it will be, but
 it came up in a discussion about producing useful metrics surrounding
 incidents.
+
+STIX 2.1 - Incident Core Extension Version 1.0
+----------------------------------------------
+
+**Reference:** <https://docs.google.com/document/d/1Isxk2VVDmgMOi-1GjC4fsraKJMnwN9_ad8Z8UKsySQw/edit#heading=h.gjdgxs>
+
+**Status:** Draft from 2022-05-06
+
+**Used by:**
+
+**Description:** In the STIX 2.1 standard the incident object is only a stub. This extension proposed more fields to the 
+incident object. 
 
 Incident data exchange and information sharing standards
 ========================================================
@@ -127,7 +139,7 @@ MISP
 
 **Description:** a set of metrics designed to provide a common language
 for describing security incidents in a structured and repeatable
-manner. 
+manner.
 
 Standards for classification / taxonomies
 -----------------------------------------
@@ -136,7 +148,7 @@ RSIT
 ----
 
 **Reference:**
-<https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force> 
+<https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force>
 
 **Status:** Active & Maintained. Stewardship by
 [ENISA](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy).
@@ -146,12 +158,12 @@ Group](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Forc
 
 **Used by:** most CSIRTs in Europe at least. A (very reduced) list of
 users and tools is listed
-[here](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/Dependencies%20and%20tool%20mapping.md). 
+[here](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/Dependencies%20and%20tool%20mapping.md).
 There are far more users globally.
 
 **Description:** A common high level reference taxonomy to classify
 incidents. Detailed description on use-cases here:
-<https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/Use%20Cases.md> 
+<https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/Use%20Cases.md>
 
 MISP taxonomies
 ---------------
