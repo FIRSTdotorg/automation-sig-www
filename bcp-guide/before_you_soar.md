@@ -170,13 +170,13 @@ want to consider:
     have a wide-ranging impact on the organisation\'s business (e.g.,
     shutting down servers, changing firewall rules), and lower-risk
     ones, which include blocking a user account after multiple failed
-    logins, blacklisting email used in phishing, and so on.
+    logins, blocklisting email used in phishing, and so on.
 
 -   Regularly review the playbooks and make sure that the analysts'
     lessons learned are captured in any new iteration. You may wish to
     establish a regular cycle, which can come in the form of dedicated
     workshops with your *Tier 1* security investigators or external
-    experts, such as red teamers. Consider using well established
+    experts, such as red teamers. Consider using well-established
     frameworks to manage your playbook use cases, such as the Dutch
     Management, Growth and Metrics & assessment (MaGMa) Framework.
 
@@ -204,7 +204,7 @@ attempts to highlight some of them briefly:
 
 -   SOARs require refinement and are not appropriate for ingesting large
     amounts of raw data. As a result, having a good SIEM in place can
-    help to streamline a successful SOAR .
+    help to streamline a successful SOAR.
 
 -   Finding the right balance between the responsiveness of automated
     tasks and human or business judgment is not always easy. For

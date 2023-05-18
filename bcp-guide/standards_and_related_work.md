@@ -161,7 +161,7 @@ users and tools is listed
 [here](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/Dependencies%20and%20tool%20mapping.md).
 There are far more users globally.
 
-**Description:** A common high level reference taxonomy to classify
+**Description:** A common high-level reference taxonomy to classify
 incidents. Detailed description on use-cases here:
 <https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/Use%20Cases.md>
 

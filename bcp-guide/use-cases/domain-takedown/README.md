@@ -26,7 +26,7 @@
 1. is the URL already known?
   1. exit early if URL is already known
 1. access URL
-  1. exit early if response is invalid (e.g. 404 not found)
+  1. exit early if response is invalid (e.g., 404 not found)
 1. Check response for
   * phishing content
   * known malware patterns
@@ -36,14 +36,14 @@
 1. send out notification
   * AS abuse contact
   * IP abuse contact
-1. Add malicious URL to internal blacklists
+1. Add malicious URL to internal blocklists
 
 ### Diagram
 ![Domain Takedown Diagram](./diagram.png)
 
 ### Results
-  * take down request are sent, the domain will be hopefully be made unavailable soon
-  * internal users are protected via the blacklists
+  * take down request are sent, the domain will hopefully be made unavailable soon
+  * internal users are protected via the blocklists
 
 ## Implementations
 

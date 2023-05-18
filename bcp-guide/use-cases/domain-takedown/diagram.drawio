@@ -34,7 +34,7 @@
         <mxCell id="Cd6J4C14NTwZJKHbnolh-10" value="notify" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cd6J4C14NTwZJKHbnolh-11" value="add to internal blacklist" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Cd6J4C14NTwZJKHbnolh-11" value="add to internal blocklist" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cd6J4C14NTwZJKHbnolh-12" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

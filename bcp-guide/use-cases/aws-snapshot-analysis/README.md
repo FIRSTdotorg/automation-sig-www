@@ -24,7 +24,7 @@ This playbook will need access to:
 ### Triggers
 
 The playbook starts with a request that could come from a web hook, email,
-survey, etc depending on the capabilities of the SOAR platform and how your
+survey, etc. depending on the capabilities of the SOAR platform and how your
 team wants to trigger it.
 
 Here are some example parameters for a trigger:
@@ -71,15 +71,15 @@ Here are some example parameters for a trigger:
     1. Shut down the host
     1. Exit
 
-At this point the environment should be set up and the analyst should have what
+At this point, the environment should be set up and the analyst should have what
 they need to access the environment and analyze the snapshot or information on
-how to connect to watch the auto forensics work on it. When the analysis is done
+how to connect to watch the auto forensics work on it. When the analysis is done, 
 the results will need to be uploaded to the artifact repository since the
 environment is ephemeral.
 
 **Notes**
 
-[1] When the environment shuts down it should delete its resources.
+[1] When the environment shuts down, it should delete its resources.
 
 [2] The alert should contain details about the environment, what failed, and
     any steps not handled by the automation to clean up the environment.
@@ -100,7 +100,7 @@ environment is ephemeral.
 
 The results will heavily depend on the types of analysis.
 
-Say for example that log2timeline was used, then things like the plaso db and
+Say, for example, that log2timeline was used, then things like the plaso db and
 activity files would be uploaded to the artifact repository. For an incident
 named `oops-2023` involving a snapshot named `snap-1234` it might look
 like this:
@@ -136,13 +136,13 @@ use case supports:
 * Secrets/config management
 * Provisioning EC2 instances via the `amazon.aws` collection
 * Copying snapshots via the `community.aws` collection
-* Running ad-hoc commands in the analysis env
-* Delete snapshots using a scheduled run that searches for snapshots out side
+* Running adhoc commands in the analysis env
+* Delete snapshots using a scheduled run that searches for snapshots outside
   of the retention period
 
 ### Analysis Environment
 
-The analysis environment could be implemented different ways, but basing it
+The analysis environment could be implemented in different ways, but basing it
 off of an EC2 instance does provide some nice benefits since the snapshots
 are already in AWS.
 
