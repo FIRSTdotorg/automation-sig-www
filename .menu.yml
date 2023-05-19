@@ -2,7 +2,7 @@
 - title: Automation SIG
   url: /global/sigs/automation/
   ## Uncomment and edit the following lines to create submenu entries
-  #nav:
-  #  - title: Best Common Practices for IT Security Automation
-  #    url: /global/sigs/automation/bcp-guide/
+  nav:
+    - title: Best Common Practices for IT Security Automation
+      url: /global/sigs/automation/bcp-guide/
     
