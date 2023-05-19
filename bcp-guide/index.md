@@ -7,7 +7,7 @@ Authors: <insert authors list>
 
 
 *Table of contents*
-1. [Motivation](bcp-guide/motivation)
+1. [Motivation](bcp-guide/motivation.md)
 2. [Overview of this document](bcp-guide/overview)
 3. [Intended Audience](bcp-guide/intended_audience)
 4. [Scope](bcp-guide/scope)
