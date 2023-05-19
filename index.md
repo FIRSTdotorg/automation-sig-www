@@ -33,4 +33,3 @@ Our aims are to:
 Being a FIRST member is not a requirement to participate in this SIG, though we encourage it. Join requests can be submitted using the link below, they'll be moderated by the SIG Chairs.
 
 <p class="ui-buttons"><a href="https://portal.first.org/g/Automation%20SIG" class="button color-button animated">Request to Join</a></p>
-
