@@ -5,8 +5,6 @@ title: Automation SIG
 -->
 # Automation SIG
 
-test
-
 ## Goals & Deliverables
 
 Our aims are to:
