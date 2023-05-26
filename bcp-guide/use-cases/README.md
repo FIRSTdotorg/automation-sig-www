@@ -6,6 +6,6 @@
 * [Generic Potential Phishing](./generic-potential-phishing)
 * [Leaked Credentials](./leaked-credentials)
 
-## Forensics
+## Incident Analysis and Forensics
 
 * [AWS Snapshot Analysis](./aws-snapshot-analysis)
