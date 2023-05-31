@@ -7,8 +7,6 @@ We start by defining some terms and limiting the scope of this document (chapter
 After the scope discussion, we will describe the common use-cases which CSIRTs and SOCs face.
 
 <XXX add one, two sentences about our process of use-case discovery XXX>
-test test test
-
 
 Next, we discuss and list the common standards which help both in modelling as well as in facilitation interoperability between different tools.
 
