@@ -48,6 +48,22 @@
 ## Implementations
 
 ## SOAR
+The SOAR platform could be single application or multiple ones communication with each other. Many of the steps can be automated
+
+### URL already known
+search in one or more data pools, blacklists or similar if the URL is already known as malicious
+
+### access URL
+Accessing the URL can also be an automated step. The tool should be able to download the source code and take a screenshot of the webpage. Screenshots are very valuable especially for phishing sites. A hash value about the source could be used to later check if the webpage content has changed or not.
+
+### get abuse contacts
+This step usually sends the IP of the server hosting the content to whois to get the AS abuse contact. Maybe you have other directories in your environment you want to include in this step as well.
+
+### notify
+sending out notifications can also be automated. Based on the analysts classification you want to inform different parties about your finding and send out take down requests to different parties (Hoster, AS abuse contact, Registry, other CERT/CSIRT teams, ...)
+
+### add to blocklist
+based on the result of the analysis, you want to add the URL to different internal or external blocklists. This step can also be automated based on the analysis result.
 
 ### Artifact Repository
-  * Responses and screenshots might be stored for some time, to document the requests
+  * Responses, hash values and screenshots might be stored for some time, to document the request and the outcome.
