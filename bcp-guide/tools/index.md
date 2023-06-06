@@ -1,3 +1,11 @@
+<!--
+---
+title: "IT Security Automation Best Common Practices: Tools"
+attributes:
+  class: data-preview
+...
+-->
+
 # Tools
 
 | Name | Category | Description | License|
