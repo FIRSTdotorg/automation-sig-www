@@ -7,9 +7,9 @@ please do fork it and send us a PR.
 
 The core team (Automation SIG co-chairs) will review them.
 
-# List of contributors and co-authors of this document
+# List of co-authors of this document
 
-(in alphabetical order)
+(in alphabetical order, list according to the git commits)
 
 * Aaron Kaplan
 * Andreas Mühlemann
@@ -19,3 +19,6 @@ The core team (Automation SIG co-chairs) will review them.
 * Razvan Gavrila
 * Vilius Benetis
 
+# Contributors
+
+Even without having a git commit, we would like to thank the whole Automation SIG and all its members for the discussions, presentations of tools and input.
