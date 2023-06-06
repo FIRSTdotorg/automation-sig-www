@@ -2,10 +2,11 @@
 
 ## Incident Response
 
-* [Domain Takedown](./domain-takedown)
+* [Domain Takedown](domain-takedown)
 * [Generic Potential Phishing](./generic-potential-phishing)
 * [Leaked Credentials](./leaked-credentials)
 
 ## Incident Analysis and Forensics
 
 * [AWS Snapshot Analysis](./aws-snapshot-analysis)
+
