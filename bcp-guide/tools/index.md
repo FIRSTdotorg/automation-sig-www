@@ -8,7 +8,7 @@ attributes:
 
 # Tools
 
-| Name | Category | Description | License|
+| Name | Category | Description | Open Source? License|
 | ---- | -------- | ----------- | -------|
 | [Amazon S3](./amazon-s3) | Storage | Scalable, cloud object storage by Amazon  | False |
 | [Containers](./containers) | Packaging | Portable, isolated environments for workloads  | True |
