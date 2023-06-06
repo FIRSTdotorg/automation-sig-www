@@ -1,17 +1,17 @@
 # Containers
 
-**Description:** Portable, isolated environments for workloads
+Portable, isolated environments for workloads
+
 
 **Open Source:** Yes
 
-**Tool Categories:** Environment, Packaging
+**Category:** Packaging
 
-## Resources
 
-* [Podman Documentation](https://docs.podman.io/)
-* [Docker Documentation](https://docs.docker.com/)
+**Core Features:**
+- Isolated workloads
+- Portable environments
 
-## Notable Capabilities
-
-* Isolated workloads
-* Portable environments
+**Links:**
+- [Podman Documentation](https://docs.podman.io/)
+- [Docker Documentation](https://docs.docker.com/)

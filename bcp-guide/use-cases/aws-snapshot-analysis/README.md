@@ -128,7 +128,7 @@ with each other. Each section below covers a potential implementation.
 
 #### Ansible Automation Platform
 
-[Ansible Automation Platform](../../tools/ansible-automation-platform) in this
+[Ansible Automation Platform](../../tools/ansible) in this
 use case supports:
 
 * Triggering via survey/form or web hook

@@ -1,13 +1,23 @@
 # Tools
 
-## Automation
-
-* [Ansible Automation Platform](./ansible-automation-platform)
-
-## Storage
-
-* [Amazon S3](./amazon-s3)
-
-## Runtime Environments
-
-* [Containers](./containers)
+| Name | Category | Description | License|
+| ---- | -------- | ----------- | -------|
+| [Amazon S3](./amazon-s3) | Storage | Scalable, cloud object storage by Amazon  | False |
+| [Containers](./containers) | Packaging | Portable, isolated environments for workloads  | True |
+| [IntelMQ](./intelmq) | Automation / workflows | IntelMQ is a solution for IT security teams (CERTs & CSIRTs, SOCs, abuse departments, etc.) for collecting and  processing security feeds (such as log files) using a message queuing protocol. ...  Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus  improving the incident handling processes of CERTs. IntelMQ can be used for - automated incident handling - situational awareness - automated notifications - as data  collector for other tools - etc.  | Yes (AGPL-3.0) |
+| [n6](./n6) | Automation / workflows | The n6 platform has been created by CERT Polska as a system designed to collect, process and share information  about network events and possible security incidents. During one year period there are milions of security  incidents being processed from Poland as well as from other parts the world. N6 is fully automatic. Its goal is  to be efficient, reliable and prompt to deliver large amount of information about security incidents to proper  entities: network owners, administrators and operators.  | Yes (AGPL-3.0) |
+| [Shuffler](./shuffler) | Orchestration / full SOAR | Shuffle started as a project in mid-2019 because of a few automation related problems that needed more attention  in the CERT/SIRT community. Available automation solutions in the security industry are trying to do everything  at once handle tickets, indicators, threat intel and much more in a single platform, while our goal is to build  the best solution to fit all your existing tools following the Unix philosophy: Do One Thing and Do It Well  | Yes (AGPL-3.0) (SaaS installation available but at a cost) |
+| [Iris](./iris) | Ticket System / Case Management System | A collaborative platform aiming to help incident responders to share technical details during investigations.  | Yes (LGPL-3.0) |
+| [tines.io](./tines-io) | Orchestration and Automation |  | Closed source |
+| [Ansible](./ansible) | Automation | Ansible provides an agentless tool for general IT automation. It's not specifically security focused but it  makes an easy automation language for interacting with systems in an automated way. The Ansible Automation  Platform also makes it easy to hand playbooks over to analysts and restrict permissions and inputs. It also  provides an API to kick off playbooks, which can be handy if you don't want to couple your automation  implementation to a particular SOAR vendor.  | Yes (GPL-3.0) |
+| [Arkime](./arkime) | Detection | Arkime (formerly Moloch) is a large scale, open source, indexed packet capture and search tool. | Yes (Apache 2.0) |
+| [Fleet](./fleet) | Detection / Response | Open source osquery manager. Deploying osquery with Fleet enables programmable live queries, streaming logs, and  effective management of osquery across 100,000+ servers, containers, and laptops. It's especially useful for  talking to multiple devices at the same time. (Useful during investigations)"  | Yes (LICENSE) |
+| [Suricata](./suricata) | Detection | Suricata is the leading independent open source threat detection engine. By combining intrusion detection (IDS),  intrusion prevention (IPS), network security monitoring (NSM) and PCAP processing, Suricata can quickly identify,  stop, and assess even the most sophisticated attacks.  | Yes (GPL-2.0) |
+| [MISP](./misp) | Threat Intelligence | MISP Threat Sharing (MISP) is an open source threat intelligence platform. The project develops utilities and  documentation for more effective threat intelligence, by sharing indicators of compromise.  | Yes (AGPL-3.0) |
+| [OpenCTI](./opencti) | Threat Intelligence | OpenCTI is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It's based on Stix and can use connectors to import and export data.  | Yes (Apache-2.0) |
+| [AIL](./ail) | Threat Intelligence | Framework for Analysis of Information Leaks | Yes (AGPL-3.0) |
+| [Turbinia](./turbinia) | Forensics automation | Turbinia is an open-source framework for deploying, managing, and running distributed forensic workloads.  | Yes (Apache-2.0) |
+| [TheHive5](./thehive5) | Response / Case management | A scalable and collaborative Security Incident Response Platform, tightly integrated with MISP (Malware  Information Sharing Platform), designed to make life easier for SOCs, CSIRTs, CERTs and any information security  practitioner dealing with security incidents that need to be investigated and acted upon swiftly.  | False |
+| [Cortex](./cortex) | Forensics automation | Cortex tries to solve a common problem frequently encountered by SOCs, CSIRTs and security researchers in the  course of threat intelligence, digital forensics and incident response: how to analyze observables they have  collected, at scale, by querying a single tool instead of several? Cortex, an open source and free software,  has been created by TheHive Project for this very purpose. Observables, such as IP and email addresses, URLs,  domain names, files or hashes, can be analyzed one by one or in bulk mode using a Web interface. Analysts can  also automate these operations thanks to the Cortex REST API.  | True |
+| [GRR Rapid Response](./grr-rapid-response) | Forensics automation | GRR Rapid Response is an incident response framework focused on remote live forensics. It consists of a python  client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to  clients. The goal of GRR is to support forensics and investigations in a fast, scalable manner to allow analysts  to quickly triage attacks and perform analysis remotely.  | Yes (Apache-2.0) |
+| [Société Générale Fast Incident Response (FIR)](./societe-generale-fast-incident-response-fir) | Forensics automation/incident management | FIR (Fast Incident Response) is an cybersecurity incident management platform designed with agility  and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.  | Yes (GPLv3) |
