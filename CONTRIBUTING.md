@@ -10,8 +10,9 @@ We appreciate Pull Requests (PRs) via the fork & PR model:
 2. look at the `bcp-guide/` folder and at the templates for documenting use-cases as well as tools
 3. familiarize yourself a bit with the rest of the document
 4. make your additions
-5. git commit
-6. and ... send a PR.
+5. Don't forget to add your name to the [contributors.md](bcp-guide/contributors.md) page
+6. git commit
+7. and ... send a PR.
 
 Thank you!
 It's a living document, so periodic reviews are good.
