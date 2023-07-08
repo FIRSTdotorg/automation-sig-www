@@ -7,7 +7,7 @@ Services are taken and aligned with definitions of FIRST CSIRT Services Framewor
 
 ## 5. Service Area: Information Security Event Management
 
-Table below covers Services:
+The following services are targeted by automation:
 1. 5.1 Service: Monitoring and detection
 2. 5.2 Service: Event analysis
 
@@ -28,7 +28,7 @@ Table below covers Services:
 
 ## 6. Service Area: Information Security Incident Management
 
-Table below covers Services:
+The following services are targeted by automation:
 1. 6.1 Service: Information security incident report acceptance
 2. 6.2 Service: Information security incident analysis
 3. 6.3 Service: Artifact and forensic evidence analysis
@@ -51,13 +51,12 @@ Table below covers Services:
 | | osquery| Query enpoints for threat-related artifacts | Internal SOCs, IR teams
 | | velociraptor| Query enpoints for threat-related artifacts | Internal SOCs, IR teams
 | | Dissect| Query images of virtual machines and other media to analyse incidents | Internal SOCs, IR teams
-
 | Response automation| | |
 | |Ossec / Wazuh agent | Analyse Linux / Windows / Linux/ UNIX OS activities, execute action on chosen alert | Internal SOCs
 
 ## 7. Service Area: Vulnerability Management
 
-Table below covers Services:
+The following services are targeted by automation:
 1. 7.1 Service: Vulnerability discovery / research
 2. 7.2 Service: Vulnerability report intake
 3. 7.3 Service: Vulnerability analysis
@@ -81,7 +80,7 @@ Table below covers Services:
 
 ## 8. Service Area: Information Situational Awareness
 
-Table below covers Services:
+The following services are targeted by automation:
 1. 8.1 Service: Data acquisition
 2. 8.2 Service: Analysis and synthesis
 3. 8.3 Service: Communication
@@ -110,7 +109,7 @@ Table below covers Services:
 
 ## 9. Service Area: Knowledge Management
 
-Table below covers Services:
+The following services are targeted by automation:
 1. 9.1 Service: Awareness building
 2. 9.2 Service: Training and education
 3. 9.3 Service: Exercises (CTF and table top)
