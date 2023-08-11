@@ -2,7 +2,7 @@
 
 This document tries to give an overview of typical, worthy automation tasks in IT security.
 
-We start by defining some terms and limiting the scope of this document (chapter XXX). After all, the term "Automation" is overly broad. Limiting the scope to the most useful and typical automation use-cases in IT Security Teams / CSIRTs / SOCs allows us to stay focused. Essentially, as every IT practitioner knows, there is a tendency to try to automate everything. This is no different in IT Security. But the question "is it worth it to automate" needs to be looked at closely. One of the  first good outcomes of the FIRST Automation SIG's work is therefore the consolidated list of worthy use-cases in chapter XXX.
+We start by defining some terms and limiting the scope of this document (see chapter [Scope](./scope.md)). After all, the term "Automation" is overly broad. Limiting the scope to the most useful and typical automation use-cases in IT Security Teams / CSIRTs / SOCs allows us to stay focused. Essentially, as every IT practitioner knows, there is a tendency to try to automate everything. This is no different in IT Security. But the question "is it worth it to automate" needs to be looked at closely. One of the  first good outcomes of the FIRST Automation SIG's work is therefore the consolidated list of worthy use-cases in chapter XXX.
 
 After the scope discussion, we will describe the common use-cases which CSIRTs and SOCs face.
 
@@ -10,7 +10,8 @@ After the scope discussion, we will describe the common use-cases which CSIRTs a
 
 Next, we discuss and list the common standards which help both in modelling as well as in facilitation interoperability between different tools.
 
-The tools chapter (XXX) discusses the common tools for automation. 
+The [tools chapter](./services-tools.md) discusses the common tools for automation.
+Additional tools can be found within the [`tools` folder](./tools/tools.yaml).
 
 The chapter "How to automate with open source tools" gives a few examples on how to automate the typical use-cases we elaborated on in chapter XXX. Since at the time of writing this document, the market for commercial automation tools for IT Security (SOARS, SIEMs, workflow automation tools, etc.) is very dynamic, the next chapter "How to automate with commercial tools" (XXX)  re-visits our use-cases but with a focus on the commercial tools. Where possible, we link to vendor's instructions on how to automate the particular use-case with the vendor's tool. 
 
