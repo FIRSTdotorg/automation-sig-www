@@ -1,14 +1,6 @@
-<!--
----
-title: "IT Security Automation Best Common Practices: Tools"
-attributes:
-  class: data-preview
-...
--->
-
 # Tools
 
-| Name | Category | Description | Open Source? License|
+| Name | Category | Description | License|
 | ---- | -------- | ----------- | -------|
 | [Amazon S3](./amazon-s3) | Storage | Scalable, cloud object storage by Amazon  | False |
 | [Containers](./containers) | Packaging | Portable, isolated environments for workloads  | True |
@@ -29,3 +21,5 @@ attributes:
 | [Cortex](./cortex) | Forensics automation | Cortex tries to solve a common problem frequently encountered by SOCs, CSIRTs and security researchers in the  course of threat intelligence, digital forensics and incident response: how to analyze observables they have  collected, at scale, by querying a single tool instead of several? Cortex, an open source and free software,  has been created by TheHive Project for this very purpose. Observables, such as IP and email addresses, URLs,  domain names, files or hashes, can be analyzed one by one or in bulk mode using a Web interface. Analysts can  also automate these operations thanks to the Cortex REST API.  | True |
 | [GRR Rapid Response](./grr-rapid-response) | Forensics automation | GRR Rapid Response is an incident response framework focused on remote live forensics. It consists of a python  client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to  clients. The goal of GRR is to support forensics and investigations in a fast, scalable manner to allow analysts  to quickly triage attacks and perform analysis remotely.  | Yes (Apache-2.0) |
 | [Société Générale Fast Incident Response (FIR)](./societe-generale-fast-incident-response-fir) | Forensics automation/incident management | FIR (Fast Incident Response) is an cybersecurity incident management platform designed with agility  and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.  | Yes (GPLv3) |
+| [Velociraptor](./velociraptor) | Forensics automation | Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries. It is a unique, advanced open-source endpoint monitoring, digital forensic and cyber response platform. It was developed by Digital Forensic and Incident Response (DFIR) professionals who needed a powerful and efficient way to hunt for specific artifacts and monitor activities across fleets of endpoints.  Velociraptor provides you with the ability to more effectively respond to a wide range of digital forensic and cyber incident response investigations and data breaches  | Yes (AGPL-3.0) |
+| [CyberChef](./cyberchef) | Workflows | CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser. These operations include simple encoding like XOR and Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more. The tool is designed to enable both technical and non-technical analysts to manipulate data in complex ways without having to deal with complex tools or algorithms. It was conceived, designed, built and incrementally improved by an analyst in their 10% innovation time over several years.  | Yes (Apache-2.0) |

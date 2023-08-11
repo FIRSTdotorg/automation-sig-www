@@ -189,3 +189,25 @@ tools:
       and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.
     link:
     git_url: https://github.com/certsocietegenerale/FIR
+  - category: Forensics automation
+    name: Velociraptor
+    open_source: Yes (AGPL-3.0)
+    description: |
+      Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
+      It is a unique, advanced open-source endpoint monitoring, digital forensic and cyber response platform.
+      It was developed by Digital Forensic and Incident Response (DFIR) professionals who needed a powerful and efficient way to hunt for specific artifacts and monitor activities across fleets of endpoints. 
+      Velociraptor provides you with the ability to more effectively respond to a wide range of digital forensic and cyber incident response investigations and data breaches
+    resources: 
+      - https://docs.velociraptor.app/
+    git_url: https://github.com/Velocidex/velociraptor
+  - category: Workflows
+    name: CyberChef
+    open_source: Yes (Apache-2.0)
+    description: |
+      CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser.
+      These operations include simple encoding like XOR and Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more.
+      The tool is designed to enable both technical and non-technical analysts to manipulate data in complex ways without having to deal with complex tools or algorithms.
+      It was conceived, designed, built and incrementally improved by an analyst in their 10% innovation time over several years.
+    resources: 
+      - https://gchq.github.io/CyberChef/
+    git_url: https://github.com/gchq/CyberChef
