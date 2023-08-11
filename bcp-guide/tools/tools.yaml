@@ -211,3 +211,10 @@ tools:
     resources: 
       - https://gchq.github.io/CyberChef/
     git_url: https://github.com/gchq/CyberChef
+  - category: Hunting / Forensics
+    name: Chainsaw
+    open_source: Yes (GPL-3.0)
+    description: |
+      Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows forensic artefacts such as Event Logs and MFTs.
+      Chainsaw offers a generic and fast method of searching through event logs for keywords, and by identifying threats using built-in support for Sigma detection rules, and via custom Chainsaw detection rules.
+    git_url: https://github.com/WithSecureLabs/chainsaw
