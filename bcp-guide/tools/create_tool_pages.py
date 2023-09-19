@@ -42,16 +42,14 @@ index_template = """# Tools
 """
 with open("tools.yaml") as f:
     doc = yaml.load(f, Loader=yaml.FullLoader)
-    # Ensure tools get sorted alphabetically within the resulting table
-    tools = sorted(doc["tools"], key=lambda d: d.get("name"))
-    for idx, tool in enumerate(tools):
+    for idx, tool in enumerate(doc["tools"]):
         slug = tool["name"]
         slug = unicodedata.normalize("NFKD", slug)
         slug = slug.encode("ascii", "ignore").decode("ascii")
         slug = slug.lower()
         slug = re.sub(r"[^0-9a-z]+", "-", slug)
         slug = slug.strip("-")
-        tools[idx]["slug"] = slug
+        doc["tools"][idx]["slug"] = slug
 
         open_source = tool["open_source"]
         if type(tool["open_source"]) == bool:
@@ -72,11 +70,11 @@ with open("tools.yaml") as f:
             )
 
         desc = tool["description"] or ""
-        tools[idx]["description"] = desc.replace("\n", " ")
+        doc["tools"][idx]["description"] = desc.replace("\n", " ")
 
     with open(f"./index.md", "w") as f:
         f.write(
             Template(index_template).render(
-                tools=doc["tools"],
+                tools=sorted(doc["tools"], key=lambda d: d.get("name").lower()),
             )
         )
