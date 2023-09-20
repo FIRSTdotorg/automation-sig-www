@@ -189,3 +189,60 @@ tools:
       and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.
     link:
     git_url: https://github.com/certsocietegenerale/FIR
+  - category: Forensics automation
+    name: Velociraptor
+    open_source: Yes (AGPL-3.0)
+    description: |
+      Velociraptor is a tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
+      It is a unique, advanced open-source endpoint monitoring, digital forensic and cyber response platform.
+      It was developed by Digital Forensic and Incident Response (DFIR) professionals who needed a powerful and efficient way to hunt for specific artifacts and monitor activities across fleets of endpoints. 
+      Velociraptor provides you with the ability to more effectively respond to a wide range of digital forensic and cyber incident response investigations and data breaches
+    resources: 
+      - https://docs.velociraptor.app/
+    git_url: https://github.com/Velocidex/velociraptor
+  - category: Workflows
+    name: CyberChef
+    open_source: Yes (Apache-2.0)
+    description: |
+      CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser.
+      These operations include simple encoding like XOR and Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more.
+      The tool is designed to enable both technical and non-technical analysts to manipulate data in complex ways without having to deal with complex tools or algorithms.
+      It was conceived, designed, built and incrementally improved by an analyst in their 10% innovation time over several years.
+    resources: 
+      - https://gchq.github.io/CyberChef/
+    git_url: https://github.com/gchq/CyberChef
+  - category: Hunting / Forensics
+    name: Chainsaw
+    open_source: Yes (GPL-3.0)
+    description: |
+      Chainsaw provides a powerful ‘first-response’ capability to quickly identify threats within Windows forensic artefacts such as Event Logs and MFTs.
+      Chainsaw offers a generic and fast method of searching through event logs for keywords, and by identifying threats using built-in support for Sigma detection rules, and via custom Chainsaw detection rules.
+    git_url: https://github.com/WithSecureLabs/chainsaw
+  - category: Detection / Response
+    name: Wazuh
+    open_source: Yes (GPL-2.0)
+    description: |
+      Wazuh is a free and open source platform used for threat prevention, detection, and response.
+      It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
+      Wazuh solution consists of an endpoint security agent, deployed to the monitored systems, and a management server, which collects and analyzes data gathered by the agents.
+      Besides, Wazuh has been fully integrated with the Elastic Stack, providing a search engine and data visualization tool that allows users to navigate through their security alerts.
+    resources: 
+      - https://documentation.wazuh.com/current/index.html
+      - https://documentation.wazuh.com/current/installation-guide/index.html
+      - https://github.com/wazuh/wazuh-docker
+      - https://github.com/wazuh/wazuh-ansible
+      - https://github.com/wazuh/wazuh-puppet
+      - https://github.com/wazuh/wazuh-kubernetes
+    git_url: https://github.com/wazuh/wazuh
+  - category: SIEM
+    name: OpenSearch
+    open_source: Yes (Apache-2.0)
+    description: |
+      OpenSearch is a fork of ElasticSearch. 
+      Elasticsearch is a search engine based on the Lucene library. 
+      It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents.
+      Elasticsearch is developed in Java and is dual-licensed under the source-available Server Side Public License and the Elastic license, while other parts fall under the proprietary (source-available) Elastic License.
+      Official clients are available in Java, .NET (C#), PHP, Python, Ruby and many other languages. 
+      According to the DB-Engines ranking, Elasticsearch is the most popular enterprise search engine.
+    git_url: https://github.com/opensearch-project/OpenSearch
+  

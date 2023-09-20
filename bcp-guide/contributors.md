@@ -16,6 +16,7 @@ The core team (Automation SIG co-chairs) will review them.
 * Braxton Plaxco
 * Guillem Gordillo
 * Jonas Plum
+* Julian Droste
 * Razvan Gavrila
 * Vilius Benetis
 
