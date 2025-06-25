@@ -28,6 +28,6 @@ The decision of what ISO phase would be in scope was a bit arbitrary, but it hel
 
 In summary, we will concentrate on the areas that consume the most time from IT security teams and present the most significant risk to the business. These are the ideal candidates for automation.
 
-![Is it worth the time?](https://xkcd.com/1205/)
+![Is it worth the time?](https://imgs.xkcd.com/comics/is_it_worth_the_time.png)
 
 *Source: [xkcd #1205](https://xkcd.com/1205/)*
