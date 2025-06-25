@@ -1,7 +1,7 @@
 # Title: Potential phishing analysis
 
 ## Goals:
-  * Conclude whether a reported email
+  * Conclude whether a reported email is a phishing mail or not
   * Identify user interactions with the email or its contents
   * Mitigate any potential compromise
 

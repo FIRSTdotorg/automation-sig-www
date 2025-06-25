@@ -73,7 +73,7 @@ The following services are targeted by automation:
 |  | nmap | All CSIRTs | Scan infrastructure for vulnerabilities | Provide infrastructure-related information for vulnerability response |
 |  | Netsparker/Acunetix | All CSIRTs | Scan websites for vulnerabilities | Provide website-related information for vulnerability response |
 | Vulnerability analysis |  |  |  |  |
-|  | taranis / taranis-ng | Coordinating CSIRTs | Monitor new vulnerabilities published, analyse and publish advisories | Maintain and manage situational awareness on vulnerabilities. |
+|  | taranis / taranis-ng / taranis.ai | Coordinating CSIRTs | Monitor new vulnerabilities published, analyse and publish advisories | Maintain and manage situational awareness on vulnerabilities. |
 
 ## 8. Service Area: Information Situational Awareness
 
