@@ -11,7 +11,7 @@ Getting started
 Any modern organisation that wants to protect its information assets and
 mission-critical functions must be able to respond quickly to security
 events, preferably before they escalate into serious incidents. SOAR,
-which stands for security orchestration, automation, and response, was
+which stands for **security orchestration, automation, and response**, was
 created with this goal in mind. It enables organisations to collect data
 about potential security risks and respond to security events
 autonomously or with limited human assistance. Furthermore, SOAR forces
@@ -92,9 +92,13 @@ Before you begin, ensure that you have the following covered:
 
 -   You should not embark on this journey if your current asset
     management practises are underdeveloped. If you can\'t answer
-    questions like: what assets are in scope; who owns them; and what
-    the assigned value per asset is, your playbook logic may be skewed
-    by arbitrary circumstances. The asset list will define the scope of
+    questions like:
+    -    What assets are in scope?
+    -    Who owns them?
+    -    What is the assigned value per asset?
+
+    Your playbook logic may be skewed by arbitrary circumstances.
+    The asset list will define the scope of
     your project and provide an indication of your potential SOAR
     roadmap (for e.g. start with the endpoints, then servers, etc.).
 
@@ -143,14 +147,15 @@ want to consider:
 -   SOAR use cases and playbooks must be documented at all times. They
     should include, at a minimum, the following: the playbook\'s goal,
     the owner, the steps, the actors involved, the metrics to be
-    measured, such as mean time to detect (MTTD) and mean time to repair
-    (MTTR), and override options. Also, ensure that these playbooks are
+    measured, such as **mean time to detect (MTTD)** and
+    **mean time to repair (MTTR)**, and override options.
+    Also, ensure that these playbooks are
     easily accessible to those who require them, particularly those in
     charge of maintaining your SOAR system.
 
 -   Your playbooks should ideally be neatly mapped on top of the
-    standard incident management lifecycle: detect, triage, prioritise,
-    respond, recover, and report. While this may appear difficult, it
+    standard incident management lifecycle: **detect, triage, prioritise,**
+    **respond, recover, and report**. While this may appear difficult, it
     will give you a better understanding of what the auto process is
     doing and will make upstream reporting easier.
 
