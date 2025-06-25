@@ -1,6 +1,6 @@
 # Overview
 
-This document tries to give an overview of typical, worthy automation tasks in IT security.
+This document tries to give an overview of typical automation tasks in IT security.
 
 We start by defining some terms and limiting the scope of this document (chapter XXX). After all, the term "Automation" is overly broad. Limiting the scope to the most useful and typical automation use-cases in IT Security Teams / CSIRTs / SOCs allows us to stay focused. Essentially, as every IT practitioner knows, there is a tendency to try to automate everything. This is no different in IT Security. But the question "is it worth it to automate" needs to be looked at closely. One of the  first good outcomes of the FIRST Automation SIG's work is therefore the consolidated list of worthy use-cases in chapter XXX.
 
