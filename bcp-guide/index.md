@@ -7,9 +7,10 @@ attributes:
 -->
 # IT Security Automation Best Common Practices
 
-Version: 0.x
+Version: 0.1
 
-Authors: <insert authors list>
+Authors: Aaron Kaplan, Andreas Mühlemann, Braxton Plaxco, Guillem Gordillo, Jonas Plum, Razvan Gavrila, Vilius Benetis and many other [contributors](contributors.md)
+
 
 ### Table of contents
 !include(/global/sigs/automation/bcp-guide/.toc.md)
