@@ -61,16 +61,14 @@ BPMN
 
 **Description:**
 
-*\<XXX insert description. What is it? How to use it? Which tools use
-it? Who will be using it? XXX \>*
+ a graphical notation for specifying business processes in a Business Process Diagram (BPD). Flow-chart diagram oriented.
 
-Are there SOARs which use BPMN? BPMN is useful as a reference maybe.
 Open Source BPMN tools (apache projects) : <https://github.com/camunda>
 
 List of BPMN engines:
 <https://en.wikipedia.org/wiki/List_of_BPMN_2.0_engines>
 
-Jason Comment: Many open source orchestrators lack here
+Comment from our group: many open source orchestrators lack here
 
 Kestrel
 -------
