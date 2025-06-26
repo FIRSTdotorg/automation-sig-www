@@ -3,7 +3,7 @@
 Scalable, cloud object storage by Amazon
 
 
-**Open Source:** No
+**Open Source:** Closed source
 
 **Category:** Storage
 

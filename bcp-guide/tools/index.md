@@ -9,7 +9,7 @@ attributes:
 
 | Name | Category | Description | License|
 | ---- | -------- | ----------- | -------|
-| [Amazon S3](./amazon-s3) | Storage | Scalable, cloud object storage by Amazon  | False |
+| [Amazon S3](./amazon-s3) | Storage | Scalable, cloud object storage by Amazon  | Closed source |
 | [Containers](./containers) | Packaging | Portable, isolated environments for workloads  | True |
 | [IntelMQ](./intelmq) | Automation / workflows | IntelMQ is a solution for IT security teams (CERTs & CSIRTs, SOCs, abuse departments, etc.) for collecting and  processing security feeds (such as log files) using a message queuing protocol. ...  Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus  improving the incident handling processes of CERTs. IntelMQ can be used for - automated incident handling - situational awareness - automated notifications - as data  collector for other tools - etc.  | Yes (AGPL-3.0) |
 | [n6](./n6) | Automation / workflows | The n6 platform has been created by CERT Polska as a system designed to collect, process and share information  about network events and possible security incidents. During one year period there are milions of security  incidents being processed from Poland as well as from other parts the world. N6 is fully automatic. Its goal is  to be efficient, reliable and prompt to deliver large amount of information about security incidents to proper  entities: network owners, administrators and operators.  | Yes (AGPL-3.0) |
