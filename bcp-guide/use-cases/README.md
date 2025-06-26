@@ -17,4 +17,4 @@
 
 # FIRST services framework mapping to tools
 
-* [Mapping Table](./../services-tools.md)
+* [Mapping Table](./../services-tools)
