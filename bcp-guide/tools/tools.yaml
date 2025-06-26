@@ -189,3 +189,23 @@ tools:
       and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.
     link:
     git_url: https://github.com/certsocietegenerale/FIR
+  - category: Leak Detection
+    name: LeakTK
+    open_source: Yes (MIT)
+    description: |
+      A growing toolkit of utilities for leak detection, mitigation and prevention.
+    git_url: https://github.com/leaktk/leaktk
+  - category: Leak Detection
+    name: Gitleaks
+    open_source: Yes (MIT)
+    description: |
+      Gitleaks is a tool for detecting secrets like passwords, API keys, and tokens in git repos, files, and stdin.
+    resources:
+      - "[Product Page](https://aws.amazon.com/s3/)"
+      - "[Documentation](https://docs.aws.amazon.com/s3/index.html)"
+    core_features:
+      - Scalable
+      - Supported storage backend by a lot of tooling
+      - Supports encrypting your data at rest and in transit
+      - Open source tools exist that implement its API
+    git_url: https://github.com/gitleaks/gitleaks

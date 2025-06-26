@@ -1,14 +1,6 @@
-<!--
----
-title: "IT Security Automation Best Common Practices: Tools"
-attributes:
-  class: data-preview
-...
--->
-
 # Tools
 
-| Name | Category | Description | Open Source? License|
+| Name | Category | Description | License|
 | ---- | -------- | ----------- | -------|
 | [Amazon S3](./amazon-s3) | Storage | Scalable, cloud object storage by Amazon  | False |
 | [Containers](./containers) | Packaging | Portable, isolated environments for workloads  | True |
@@ -29,3 +21,5 @@ attributes:
 | [Cortex](./cortex) | Forensics automation | Cortex tries to solve a common problem frequently encountered by SOCs, CSIRTs and security researchers in the  course of threat intelligence, digital forensics and incident response: how to analyze observables they have  collected, at scale, by querying a single tool instead of several? Cortex, an open source and free software,  has been created by TheHive Project for this very purpose. Observables, such as IP and email addresses, URLs,  domain names, files or hashes, can be analyzed one by one or in bulk mode using a Web interface. Analysts can  also automate these operations thanks to the Cortex REST API.  | True |
 | [GRR Rapid Response](./grr-rapid-response) | Forensics automation | GRR Rapid Response is an incident response framework focused on remote live forensics. It consists of a python  client (agent) that is installed on target systems, and python server infrastructure that can manage and talk to  clients. The goal of GRR is to support forensics and investigations in a fast, scalable manner to allow analysts  to quickly triage attacks and perform analysis remotely.  | Yes (Apache-2.0) |
 | [Société Générale Fast Incident Response (FIR)](./societe-generale-fast-incident-response-fir) | Forensics automation/incident management | FIR (Fast Incident Response) is an cybersecurity incident management platform designed with agility  and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.  | Yes (GPLv3) |
+| [LeakTK](./leaktk) | Leak Detection | A growing toolkit of utilities for leak detection, mitigation and prevention.  | Yes (MIT) |
+| [Gitleaks](./gitleaks) | Leak Detection | Gitleaks is a tool for detecting secrets like passwords, API keys, and tokens in git repos, files, and stdin.  | Yes (MIT) |
