@@ -40,7 +40,7 @@ However, since this is a living document, we would like to encourage you to cont
 
 # How this document is created / how to contribute
 
-(See [CONTRIBUTING](CONTRIBUTING).
+(See [CONTRIBUTING](CONTRIBUTING)).
 
 This document is *a living document*. The Automation SIG put this out here as a
 starting point on github.  We highly encourage **pull requests** on our public
