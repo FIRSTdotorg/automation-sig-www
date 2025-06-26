@@ -47,6 +47,7 @@ a response team in detecting a leak early. Also, a user reporting a leak can be 
 
 ## Implementations
 
+
 ## GitHub and GitLab
 
 GitHub and GitLab have a feature that allows to scan for leaked credentials in repositories, or even prevent them from
@@ -56,3 +57,9 @@ being pushed to the repository.
 
 TruffleHog is a tool that scans for secrets in various places, including git repositories and commit history. It can be
 used to scan for leaked credentials, validation and manage their revocation.
+
+## Other tools
+
+* [LeakTK](https://github.com/leaktk/leaktk)
+* [GitLeak](https://github.com/gitleak/gitleak)
+  
