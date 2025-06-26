@@ -1,3 +1,11 @@
+<!--
+---
+title: Malicious Domain Takedown
+attributes:
+  class: center-image
+---
+-->
+
 # Title: Malicious Domain Takedown
 
 ## Goals:
