@@ -4,10 +4,7 @@ This chapter describes both standards and related work. We decided to
 list the most commonly used standards which need to be understood by
 most IR automation tools. Having common standards and making sure that
 the tool you are evaluating conforms to it, allows for easier
-interoperability. This is why we decided to list the standards here as
-well.
-
-*XXX please list all similar documents which pre-date our document XXX*
+interoperability. 
 
 Modelling languages for Playbooks
 =================================
@@ -32,8 +29,7 @@ CACAO
 
 CACAO takes a lot of ideas from BPMN and builds on top of it.
 
-*\<XXX insert description. What is it? How to use it? Which tools use
-it? Who will be using it? XXX \>*
+From the CACAO standard: "This specification defines the schema and taxonomy for Collaborative Automated Course of Action Operations (CACAO) for cyber security playbooks and describes how these playbooks can be created and shared in a structured and standardized way across organizational boundaries and technological solutions."
 
 COPS (Demisto / XSOAR)
 -----------------------
@@ -42,15 +38,11 @@ COPS (Demisto / XSOAR)
 
 **Status**: Seems to be abandoned on GitHub?
 
-**Used by: ?** *XXX not sure, does someone know if it is even used
-internally in XSOAR? XXX*
+
 
 **Description:**
 
-Palo Alto was involved in CACAO, but what happened then?
-
-*\<XXX insert description. What is it? How to use it? Which tools use
-it? Who will be using it? XXX \>*
+The original language which seems to have at least influenced XSOAR. But we are not sure if it is still maintained or even used by XSOAR.
 
 BPMN
 ----
@@ -69,16 +61,14 @@ BPMN
 
 **Description:**
 
-*\<XXX insert description. What is it? How to use it? Which tools use
-it? Who will be using it? XXX \>*
+ a graphical notation for specifying business processes in a Business Process Diagram (BPD). Flow-chart diagram oriented.
 
-Are there SOARs which use BPMN? BPMN is useful as a reference maybe.
 Open Source BPMN tools (apache projects) : <https://github.com/camunda>
 
 List of BPMN engines:
 <https://en.wikipedia.org/wiki/List_of_BPMN_2.0_engines>
 
-Jason Comment: Many open source orchestrators lack here
+Comment from our group: many open source orchestrators lack here
 
 Kestrel
 -------
