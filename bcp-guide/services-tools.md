@@ -11,6 +11,13 @@ The following services are targeted by automation:
 1. 5.1 Service: Monitoring and detection
 2. 5.2 Service: Event analysis
 
+<!--
+---
+title: "CSIRT/SOC Services mapping to Popular Automation Tools"
+attributes:
+  class: data-preview
+-->
+
 | Tool Category | Tool | Used mostly by | To do following | In order to serve objective |
 | --- | --- | --- | --- | --- |
 | NDS |  |  |  |  |
