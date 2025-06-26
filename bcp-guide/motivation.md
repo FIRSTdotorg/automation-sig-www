@@ -35,7 +35,12 @@ Note that this document does not attempt to list every potential task that
 CERT, CSIRT, and SOC teams may attempt to automate.  However, the SIG tries to
 identify common tasks and ways to address them across seen practices.
 
-# How this document is created
+**Note well**: In the effort to bring value early on, we decided to go ahead and make the resources which we currently have available.
+However, since this is a living document, we would like to encourage you to contribute.
+
+# How this document is created / how to contribute
+
+(See [CONTRIBUTING](CONTRIBUTING).
 
 This document is *a living document*. The Automation SIG put this out here as a
 starting point on github.  We highly encourage **pull requests** on our public
