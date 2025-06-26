@@ -1,7 +1,7 @@
 tools:
   - category: Storage
     name: Amazon S3
-    open_source: No
+    open_source: Closed source
     description: |
       Scalable, cloud object storage by Amazon
     resources:
