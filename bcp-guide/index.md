@@ -9,7 +9,7 @@ attributes:
 
 Version: 0.1
 
-Authors: Aaron Kaplan, Andreas Mühlemann, Braxton Plaxco, Guillem Gordillo, Jonas Plum, Razvan Gavrila, Vilius Benetis and many other [contributors](contributors.md)
+Authors: Aaron Kaplan, Andreas Mühlemann, Braxton Plaxco, Guillem Gordillo, Jonas Plum, Razvan Gavrila, Vilius Benetis and many other [contributors](contributors)
 
 
 ### Table of contents
