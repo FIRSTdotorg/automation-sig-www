@@ -21,7 +21,7 @@ Our aims are to:
 ## Chairs
 
 - Aaron KAPLAN (Liaison)
-- Andreas MÜHLEMANN (SWITCH-CERT)
+- Andreas MÜHLEMANN (Swisscom)
 - Benoît ROUSSILLE (EC Cybersecurity Operations Centre)
 - David DURVAUX (EC Cybersecurity Operations Centre)
 - Razvan GAVRILA (ENISA)
