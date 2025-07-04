@@ -93,8 +93,7 @@ environment is ephemeral.
     early by killing the analyst process.
 
 ### Diagram
-
-![AWS Snapshot Analysis Diagram](./diagram.png)
+<img src="diagram.png" style="width: 100%" />
 
 ### Results
 

@@ -51,7 +51,7 @@
 
 
 ### Diagram
-![Generic Potential Phishing Diagram](./diagram.png)
+<img src="diagram.png" style="width: 100%" />
 
 ### Results
   * Verify the legitness of the email
