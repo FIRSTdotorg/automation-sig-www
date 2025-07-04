@@ -47,7 +47,7 @@ attributes:
 1. Add malicious URL to internal blocklists
 
 ### Diagram
-![Domain Takedown Diagram](./diagram.png)
+<img src="diagram.png" style="width: 100%;" />
 
 ### Results
   * take down request are sent, the domain will hopefully be made unavailable soon
