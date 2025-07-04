@@ -36,8 +36,7 @@ a response team in detecting a leak early. Also, a user reporting a leak can be 
         2. If the impact is not relevant, document the abuse
 
 ### Diagram
-
-![Generic Potential Phishing Diagram](./diagram.png)
+<img src="diagram.png" style="width: 100%" />
 
 ### Results
 
