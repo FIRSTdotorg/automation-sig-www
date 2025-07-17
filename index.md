@@ -22,7 +22,7 @@ Our aims are to:
 
 - Aaron KAPLAN (Liaison)
 - Andreas MÜHLEMANN (Swisscom)
-- Benoît ROUSSILLE (EC Cybersecurity Operations Centre)
+- Benoît ROUSSILLE (EUP)
 - David DURVAUX (EC Cybersecurity Operations Centre)
 - Razvan GAVRILA (ENISA)
 - Vasileios MAVROEIDIS (UIO.no)
